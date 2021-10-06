@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cherry Tree",
+      "rate": 200,
+      "country": "Kenya"
+    },
+    {
+      "id": 2,
+      "name": "JBL Headphones",
+      "rate": 300,
+      "country": "Mars"
+    },
+    {
+      "id": 3,
+      "name": "Lg Washing Machine",
+      "rate": 400,
+      "country": "Kenya"
+    },
+    {
+      "id": 4,
+      "name": "L-Shaped Chair",
+      "rate": 500,
+      "country": "Cuba"
+    },
+    {
+      "id": 5,
+      "name": "Van Gogh Painting",
+      "rate": 600,
+      "country": "Imaginary World"
+    }
+  ],
+  "sales-agents": [
+    {
+      "id": 1,
+      "name": "Henderson Cooper",
+      "country": "Kenya"
+    },
+    {
+      "id": 2,
+      "name": "John Carter",
+      "country": "Mars"
+    },
+    {
+      "id": 3,
+      "name": "Free Guy",
+      "country": "Imaginary World"
+    },
+    {
+      "id": 4,
+      "name": "Milo",
+      "country": "Cuba"
+    }
+  ],
+  "customers": [],
+  "orders": []
+}

@@ -1,0 +1,12 @@
+@import "~antd/dist/antd.css";
+.ant-btn {
+  border-radius: 5px;
+}
+
+.ant-modal-header {
+  border-radius: 8px;
+}
+
+.ant-modal-content {
+  border-radius: 8px;
+}
