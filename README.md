@@ -40,11 +40,6 @@ Setup
    Client runs on **http://localhost:3000**
    Server runs on **http://localhost:5000**
 
-5. Built With:
-
-   ReactJs
-
-
 ## Built With
 
 ReactJs
